@@ -165,7 +165,7 @@ html, body{
 
 <body>
 <video id="bgVideo" class="bg-video" autoplay muted loop playsinline>
-  <source src="assets/kingfian.mp4" type="video/mp4">
+  <source src="kingfian.mp4" type="video/mp4">
 </video>
 
 
@@ -210,7 +210,7 @@ html, body{
   </div> -->
   <!-- SINGLE IMAGE TEAM -->
 <div class="single-team">
-  <img src="assets/arfian.jpeg" alt="Team SNACKVERSE">
+  <img src="arfian.jpeg" alt="Team SNACKVERSE">
   <h3>Muhammad Arfian Yoga Pratama</h3>
   <span>Full Stack Development Team</span>
 </div>
